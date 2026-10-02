@@ -1,0 +1,6 @@
+Regression
+Regression predicts a continuous numerical target.
+Linear regression models relationships between inputs and a numerical output.
+Common metrics: MAE, MSE, RMSE, and R-squared.
+MAE is the mean absolute difference between actual and predicted values.
+RMSE is the square root of mean squared error.

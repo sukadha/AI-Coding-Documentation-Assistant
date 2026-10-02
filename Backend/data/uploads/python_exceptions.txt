@@ -1,0 +1,5 @@
+Python Exceptions
+Common exceptions include TypeError, ValueError, NameError, KeyError, IndexError, and FileNotFoundError.
+Use try/except to handle expected runtime errors.
+TypeError occurs when an operation is applied to an incompatible type.
+Example: len(10) raises TypeError because an integer has no length.

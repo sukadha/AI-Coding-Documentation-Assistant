@@ -1,0 +1,6 @@
+Git Branching
+A branch is an independent line of development.
+git branch creates or lists branches.
+git switch changes the current branch.
+git merge combines changes from one branch into another.
+Feature branches isolate development work.

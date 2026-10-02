@@ -1,0 +1,6 @@
+REST API
+REST is an architectural style commonly used for web APIs.
+HTTP methods include GET, POST, PUT, PATCH, and DELETE.
+GET retrieves resources; POST commonly creates resources.
+API responses commonly use JSON.
+Example resource endpoints: /users and /products.

@@ -1,0 +1,6 @@
+SQL Joins
+INNER JOIN returns rows with matching values in both tables.
+LEFT JOIN returns all rows from the left table and matching rows from the right table.
+RIGHT JOIN returns all rows from the right table and matching rows from the left table.
+FULL OUTER JOIN returns matching rows plus unmatched rows from both sides.
+Example: SELECT e.name, d.name FROM employees e INNER JOIN departments d ON e.department_id = d.id;

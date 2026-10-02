@@ -1,0 +1,6 @@
+Machine Learning Basics
+Machine learning learns patterns from data to make predictions or decisions.
+Supervised learning uses labeled data.
+Unsupervised learning works without target labels.
+Classification predicts categories; regression predicts continuous values.
+Common models: linear regression, logistic regression, decision trees, random forests, SVM, KNN.

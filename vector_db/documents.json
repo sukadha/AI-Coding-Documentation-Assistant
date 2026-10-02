@@ -1,0 +1,72 @@
+[
+    {
+        "text": "GraphQL\nGraphQL is a query language and runtime for APIs.\nClients specify the fields they need.\nGraphQL commonly exposes a single endpoint.\nQueries retrieve data and mutations modify data.\nGraphQL can reduce over-fetching when clients need selected fields.\n",
+        "source": "C:\\Users\\koppa\\Downloads\\AI-Coding-Documentation-Assistant\\Backend\\data\\api\\graphql.txt",
+        "filename": "graphql.txt",
+        "category": "api",
+        "document_type": "api"
+    },
+    {
+        "text": "REST API\nREST is an architectural style commonly used for web APIs.\nHTTP methods include GET, POST, PUT, PATCH, and DELETE.\nGET retrieves resources; POST commonly creates resources.\nAPI responses commonly use JSON.\nExample resource endpoints: /users and /products.\n",
+        "source": "C:\\Users\\koppa\\Downloads\\AI-Coding-Documentation-Assistant\\Backend\\data\\api\\rest_api.txt",
+        "filename": "rest_api.txt",
+        "category": "api",
+        "document_type": "api"
+    },
+    {
+        "text": "Git Branching\nA branch is an independent line of development.\ngit branch creates or lists branches.\ngit switch changes the current branch.\ngit merge combines changes from one branch into another.\nFeature branches isolate development work.\n",
+        "source": "C:\\Users\\koppa\\Downloads\\AI-Coding-Documentation-Assistant\\Backend\\data\\git\\git_branching.txt",
+        "filename": "git_branching.txt",
+        "category": "git",
+        "document_type": "git"
+    },
+    {
+        "text": "Git Commands\ngit init initializes a repository.\ngit status shows repository state.\ngit add stages changes.\ngit commit records staged changes.\ngit push sends commits to a remote repository.\ngit pull fetches and integrates remote changes.\n",
+        "source": "C:\\Users\\koppa\\Downloads\\AI-Coding-Documentation-Assistant\\Backend\\data\\git\\git_commands.txt",
+        "filename": "git_commands.txt",
+        "category": "git",
+        "document_type": "git"
+    },
+    {
+        "text": "Machine Learning Basics\nMachine learning learns patterns from data to make predictions or decisions.\nSupervised learning uses labeled data.\nUnsupervised learning works without target labels.\nClassification predicts categories; regression predicts continuous values.\nCommon models: linear regression, logistic regression, decision trees, random forests, SVM, KNN.\n",
+        "source": "C:\\Users\\koppa\\Downloads\\AI-Coding-Documentation-Assistant\\Backend\\data\\machine_learning\\ml_basics.txt",
+        "filename": "ml_basics.txt",
+        "category": "machine_learning",
+        "document_type": "machine_learning"
+    },
+    {
+        "text": "Regression\nRegression predicts a continuous numerical target.\nLinear regression models relationships between inputs and a numerical output.\nCommon metrics: MAE, MSE, RMSE, and R-squared.\nMAE is the mean absolute difference between actual and predicted values.\nRMSE is the square root of mean squared error.\n",
+        "source": "C:\\Users\\koppa\\Downloads\\AI-Coding-Documentation-Assistant\\Backend\\data\\machine_learning\\regression.txt",
+        "filename": "regression.txt",
+        "category": "machine_learning",
+        "document_type": "machine_learning"
+    },
+    {
+        "text": "Python Basics\nPython is a high-level programming language.\nCommon data types: int, float, str, bool, list, tuple, set, dict.\nExample: name = \"Alice\"\nFunctions are defined with def, for example: def add(a, b): return a + b.\nLists are ordered and mutable. Dictionaries store key-value pairs.\n",
+        "source": "C:\\Users\\koppa\\Downloads\\AI-Coding-Documentation-Assistant\\Backend\\data\\python\\python_basics.txt",
+        "filename": "python_basics.txt",
+        "category": "python",
+        "document_type": "python"
+    },
+    {
+        "text": "Python Exceptions\nCommon exceptions include TypeError, ValueError, NameError, KeyError, IndexError, and FileNotFoundError.\nUse try/except to handle expected runtime errors.\nTypeError occurs when an operation is applied to an incompatible type.\nExample: len(10) raises TypeError because an integer has no length.\n",
+        "source": "C:\\Users\\koppa\\Downloads\\AI-Coding-Documentation-Assistant\\Backend\\data\\python\\python_exceptions.txt",
+        "filename": "python_exceptions.txt",
+        "category": "python",
+        "document_type": "python"
+    },
+    {
+        "text": "SQL Basics\nSELECT retrieves data.\nWHERE filters rows.\nGROUP BY groups rows for aggregate calculations.\nORDER BY sorts results.\nCommon aggregate functions: COUNT, SUM, AVG, MIN, MAX.\n",
+        "source": "C:\\Users\\koppa\\Downloads\\AI-Coding-Documentation-Assistant\\Backend\\data\\sql\\sql_basics.txt",
+        "filename": "sql_basics.txt",
+        "category": "sql",
+        "document_type": "sql"
+    },
+    {
+        "text": "SQL Joins\nINNER JOIN returns rows with matching values in both tables.\nLEFT JOIN returns all rows from the left table and matching rows from the right table.\nRIGHT JOIN returns all rows from the right table and matching rows from the left table.\nFULL OUTER JOIN returns matching rows plus unmatched rows from both sides.\nExample: SELECT e.name, d.name FROM employees e INNER JOIN departments d ON e.department_id = d.id;\n",
+        "source": "C:\\Users\\koppa\\Downloads\\AI-Coding-Documentation-Assistant\\Backend\\data\\sql\\sql_joins.txt",
+        "filename": "sql_joins.txt",
+        "category": "sql",
+        "document_type": "sql"
+    }
+]

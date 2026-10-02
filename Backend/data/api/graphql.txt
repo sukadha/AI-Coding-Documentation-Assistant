@@ -1,0 +1,6 @@
+GraphQL
+GraphQL is a query language and runtime for APIs.
+Clients specify the fields they need.
+GraphQL commonly exposes a single endpoint.
+Queries retrieve data and mutations modify data.
+GraphQL can reduce over-fetching when clients need selected fields.

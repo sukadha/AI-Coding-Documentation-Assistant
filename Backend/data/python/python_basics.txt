@@ -1,0 +1,6 @@
+Python Basics
+Python is a high-level programming language.
+Common data types: int, float, str, bool, list, tuple, set, dict.
+Example: name = "Alice"
+Functions are defined with def, for example: def add(a, b): return a + b.
+Lists are ordered and mutable. Dictionaries store key-value pairs.

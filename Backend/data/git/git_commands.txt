@@ -1,0 +1,7 @@
+Git Commands
+git init initializes a repository.
+git status shows repository state.
+git add stages changes.
+git commit records staged changes.
+git push sends commits to a remote repository.
+git pull fetches and integrates remote changes.

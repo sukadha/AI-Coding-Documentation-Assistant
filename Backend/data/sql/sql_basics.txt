@@ -1,0 +1,6 @@
+SQL Basics
+SELECT retrieves data.
+WHERE filters rows.
+GROUP BY groups rows for aggregate calculations.
+ORDER BY sorts results.
+Common aggregate functions: COUNT, SUM, AVG, MIN, MAX.
