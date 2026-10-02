@@ -1,0 +1,19 @@
+# Environment variables
+.env
+*.env
+Backend/.env
+
+# Virtual environments
+venv/
+.venv/
+Backend/venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Generated vector database
+vector_db/
+
+# Node
+node_modules/
