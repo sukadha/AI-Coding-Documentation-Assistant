@@ -1,24 +1,23 @@
-# Logs
-logs
-*.log
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
-pnpm-debug.log*
-lerna-debug.log*
+# Python virtual environment
+venv/
+.venv/
+Backend/venv/
 
-node_modules
-dist
-dist-ssr
-*.local
+# Python cache
+__pycache__/
+*.pyc
 
-# Editor directories and files
-.vscode/*
-!.vscode/extensions.json
-.idea
-.DS_Store
-*.suo
-*.ntvs*
-*.njsproj
-*.sln
-*.sw?
+# Environment variables
+.env
+
+# Generated vector database
+vector_db/
+
+# Model files
+*.pkl
+*.h5
+*.keras
+
+# IDE
+.vscode/
+.idea/
